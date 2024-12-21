@@ -1,0 +1,23 @@
+{
+  "name": "Glassy Horizons",
+  "symbol": "GH",
+  "image": "collection.webp",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BEEMANPx2jdmfR7jpn1hRdMuM2Vj4E3azBLb6RUBrCDY",
+        "share": 100
+      }
+    ]
+  },
+  "description": "An example collection generated with the help of ChatGPT",
+  "seller_fee_basis_points": 500,
+  "attributes": []
+}

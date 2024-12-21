@@ -1,0 +1,22 @@
+{
+  "name": "Glassy Horizons",
+  "symbol": "GH",
+  "image": "2.webp",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "An example collection generated with the help of ChatGPT",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

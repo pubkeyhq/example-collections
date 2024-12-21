@@ -1,1 +1,3 @@
-# example-collections
+# Example Collections
+
+Some example collections for development purposes.
