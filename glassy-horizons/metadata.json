@@ -1,0 +1,12 @@
+{
+  "name": "Glassy Horizons",
+  "description": "An example collection generated with the help of ChatGPT",
+  "image": "https://raw.githubusercontent.com/pubkeyhq/example-collections/refs/heads/main/glassy-horizons/assets/collection.webp",
+  "external_url": "https://github.com/pubkeyhq/example-collections/tree/main/glassy-horizons",
+  "attributes": [
+    {
+      "trait_type": "example",
+      "value": "true"
+    }
+  ]
+}

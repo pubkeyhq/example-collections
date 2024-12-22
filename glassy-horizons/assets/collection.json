@@ -1,5 +1,6 @@
 {
   "name": "Glassy Horizons",
+  "description": "An example collection generated with the help of ChatGPT",
   "symbol": "GH",
   "image": "collection.webp",
   "properties": {
@@ -17,7 +18,6 @@
       }
     ]
   },
-  "description": "An example collection generated with the help of ChatGPT",
   "seller_fee_basis_points": 500,
   "attributes": []
 }
